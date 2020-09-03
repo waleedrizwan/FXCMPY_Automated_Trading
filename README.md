@@ -1,0 +1,1 @@
+# FXCMPY_Automated_Trading
