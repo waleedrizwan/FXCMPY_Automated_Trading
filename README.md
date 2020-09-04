@@ -1,7 +1,11 @@
 # FXCMPY_Automated_Trading
 
-Uses the FXCM python API to exectue trades without user intervention, Deployed using the free Demo account 
-Applies the Renko MACD forex trading strategy to generate signals and execute trades automatically
+Uses the FXCM python API to exectue trades without user intervention
+
+Deployed using the free Demo account 
+
+Applies the Renko MACD forex trading strategy to the following currency pairs:EUR/USD,GBP/USD,USD/CHF,AUD/USD,USD/CAD
+to generate signals and execute trades automatically in the demo account
 
 
 
